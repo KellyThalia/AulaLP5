@@ -263,7 +263,7 @@ public class JDlgUsuarios extends javax.swing.JDialog {
     }//GEN-LAST:event_jBtnAlterarActionPerformed
 
     private void jBtnExcluirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtnExcluirActionPerformed
-        // TODO add your handling code here:
+    Util.perguntar("Deseja excluir o registro?");        // TODO add your handling code here:
 
     }//GEN-LAST:event_jBtnExcluirActionPerformed
 
@@ -276,7 +276,7 @@ public class JDlgUsuarios extends javax.swing.JDialog {
     }//GEN-LAST:event_jBtnConfirmarActionPerformed
 
     private void jBtnPesquisarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtnPesquisarActionPerformed
-        // TODO add your handling code here: 
+    Util.mensagem("Não implemenatdo.");        // TODO add your handling code here: 
 
 
     }//GEN-LAST:event_jBtnPesquisarActionPerformed
